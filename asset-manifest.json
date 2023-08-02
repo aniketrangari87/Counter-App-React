@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aniketrangari87.github.io/Counter-App-React/static/css/main.2ae70ec0.css",
+    "main.js": "/aniketrangari87.github.io/Counter-App-React/static/js/main.e4c7a6b3.js",
+    "static/js/787.d3befce1.chunk.js": "/aniketrangari87.github.io/Counter-App-React/static/js/787.d3befce1.chunk.js",
+    "index.html": "/aniketrangari87.github.io/Counter-App-React/index.html",
+    "main.2ae70ec0.css.map": "/aniketrangari87.github.io/Counter-App-React/static/css/main.2ae70ec0.css.map",
+    "main.e4c7a6b3.js.map": "/aniketrangari87.github.io/Counter-App-React/static/js/main.e4c7a6b3.js.map",
+    "787.d3befce1.chunk.js.map": "/aniketrangari87.github.io/Counter-App-React/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ae70ec0.css",
+    "static/js/main.e4c7a6b3.js"
+  ]
+}
